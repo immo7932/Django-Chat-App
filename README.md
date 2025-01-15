@@ -12,7 +12,7 @@ A real-time chat application built with Django. This project demonstrates how to
 
 ## Demo
 
-*((https://immo7933.pythonanywhere.com/))*
+*(https://immo7933.pythonanywhere.com/)*
 
 ## Prerequisites
 
