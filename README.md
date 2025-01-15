@@ -70,7 +70,8 @@ Follow these steps to set up the project locally:
    Start the server with:
 
    ```bash
-   python manage.py runserver
+   python -m daphne -p 8000 chatproject.asgi:application
+   http://127.0.0.1:8000/
    ```
 
 8. **Access the Application**
